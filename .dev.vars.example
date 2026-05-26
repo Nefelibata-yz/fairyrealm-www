@@ -1,0 +1,2 @@
+AUTH_SECRET=same-as-auth-worker
+NEXT_PUBLIC_AUTH_URL=http://localhost:3000
